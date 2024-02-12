@@ -1,3 +1,7 @@
+# Personnals
+/build
+/.vscode
+
 # Prerequisites
 *.d
 
